@@ -11066,6 +11066,7 @@ def main():
         "JPG + RAW 이동": "Move JPG + RAW",
         "폴더 선택": "Select Folder",
         "미니맵": "Minimap",
+        "동적 줌 우선": "Dynamic Zoom Priority",
         "환산": "Eq. 35mm",
         "테마": "Theme",
         "설정 및 정보": "Settings and Info",
